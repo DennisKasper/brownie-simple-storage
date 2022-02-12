@@ -54,4 +54,6 @@ Refer to the [help](https://eth-brownie.readthedocs.io/en/stable/install.html) f
 
 ## Resources/Links
 
-- [smartcontractkit/chainlink-brownie-contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)
+- [smartcontractkit/chainlink-brownie-contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)  
+- [Full Blockchain Solidity Course](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)  
+- 
