@@ -24,7 +24,7 @@ cd brownie-simple-storage
 cp .env.dev .env
 ```
 
-### Setup with virtualenv
+### Setup with venv
 
 Setup a virtual environment and pip install `eth-brownie`
 
@@ -56,4 +56,3 @@ Refer to the [help](https://eth-brownie.readthedocs.io/en/stable/install.html) f
 
 - [smartcontractkit/chainlink-brownie-contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)  
 - [Full Blockchain Solidity Course](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)  
-- 
